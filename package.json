@@ -12,20 +12,12 @@
     "ng",
     "angular 8"
   ],
-  "author": "Mümin Celal Pinar",
+  "author": "AKOUZ Mohamed",
   "license": "MIT",
   "publishConfig": {
     "access": "public",
     "registry": "https://npm.pkg.github.com/@akouzmohamed999"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/mumincelal/ngx-org-ui.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mumincelal/ngx-org-ui/issues"
-  },
-  "homepage": "https://github.com/mumincelal/ngx-org-ui",
   "peerDependencies": {
     "@angular/common": "^8.2.0",
     "@angular/core": "^8.2.0"
