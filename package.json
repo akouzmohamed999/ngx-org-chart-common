@@ -1,22 +1,11 @@
 {
-  "name": "ngx-org-chart",
-  "version": "1.1.1",
+  "name": "ngx-org-chart-common",
+  "version": "1.0.0",
   "description": "Hierarchical Organization Chart",
-  "keywords": [
-    "org-chart",
-    "organization",
-    "hierarchical",
-    "organization chart",
-    "hierarchical chart",
-    "angular",
-    "ng",
-    "angular 8"
-  ],
   "author": "AKOUZ Mohamed",
   "license": "MIT",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/@akouzmohamed999"
+    "access": "public"
   },
   "peerDependencies": {
     "@angular/common": "^8.2.0",
